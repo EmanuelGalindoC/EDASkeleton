@@ -1,0 +1,6 @@
+@EdaSkeleton_HostAddress = http://localhost:5069
+
+GET {{EdaSkeleton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
